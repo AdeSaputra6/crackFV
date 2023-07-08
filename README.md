@@ -44,7 +44,7 @@ $ pkg install play-audio
 $ pip install requests
 $ pip install rich
 $ pip install bs4
-$ git clone https://github.com/crackFV
+$ git clone https://github.com/AdeSaputra6/crackFV
 $ ls
 $ cd crackFV
 $ python main.py
