@@ -1,12 +1,4 @@
-<h1 align="center">
-  crackFB
-</h1>
-</div>
-<p align="center">
-  Made with Python by <a href="https://github.com/CyberCarboon2">Feri Pratama</a>
-</p>
-<p align="center">
- 
+crackFB
 ### Brute Force Attack
  <img src="https://github.com/CyberCarboon2/FileServer/blob/main/images.jpeg" width="440" title="Menu" alt="Menu">
 </p>
