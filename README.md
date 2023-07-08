@@ -44,9 +44,9 @@ $ pkg install play-audio
 $ pip install requests
 $ pip install rich
 $ pip install bs4
-$ git clone https://github.com/CyberCarboon2/crackFB
+$ git clone https://github.com/crackFV
 $ ls
-$ cd crackFB
+$ cd crackFV
 $ python main.py
 ```
 ## Or Use This Single Command
